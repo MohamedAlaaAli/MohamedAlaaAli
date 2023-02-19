@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed ALaa</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
 <h3 align="center">Data Science - AI enthusiast</h3>
 
 - 🔭 I’m currently studying **Systems and Biomedical Engineering**
