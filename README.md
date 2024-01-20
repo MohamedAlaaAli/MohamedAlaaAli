@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed ALaa</h1>
 <h3 align="center">Data Science - AI enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalaaali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalaaali" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedalaaali" alt="mohamedalaaali" /></a> </p>
 
 - 🔭 I’m currently studying **Systems and Biomedical Engineering**
