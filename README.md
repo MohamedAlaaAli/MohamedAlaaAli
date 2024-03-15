@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohamed Alaa</h1>
-<h3 align="center">Deep Learning Enthusiast | Senior Systems and biomedical engineering student</h3>
+<h1 align="center">Hi 👋, I'm Mohamed ALaa</h1>
+<h3 align="center">Data Science - AI enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedalaaali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedalaaali" /> </p>
+- 🔭 I’m currently studying **Systems and Biomedical Engineering**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3luka" alt="3luka" /></a> </p>
+- 🌱 I’m currently learning **Deep learning - Machine Learning**
 
-- 🌱 I’m currently learning **Continual learning and Few shots learning**
+- 👯 I’m looking to collaborate on **Data Science - AI projects**
 
-- 👯 I’m looking to collaborate on **Deeplearning projects**
-
-- 📫 How to reach me **muhammed.alaa157@gmail.com / muhammad.mahmoud01@eng-st.cu.edu.eg**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MamxtXyCwM1-jR0wtEyw0iZlFfE3JSQO/view?usp=sharing](https://drive.google.com/file/d/1MamxtXyCwM1-jR0wtEyw0iZlFfE3JSQO/view?usp=sharing)
+- 📫 How to reach me **muhammad.mahmoud01@eng-st.cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mohammed-alaa-005992224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-alaa-005992224" height="30" width="40" /></a>
+<a href="https://kaggle.com/muhamedalaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhamedalaa" height="30" width="40" /></a>
+<a href="https://fb.com/muhameeed.alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhameeed.alaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
