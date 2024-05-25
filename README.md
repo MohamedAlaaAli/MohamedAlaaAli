@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently studying **Systems and Biomedical Engineering**
 
-- 🌱 I’m currently learning **Deep learning - Machine Learning**
-
-- 👯 I’m looking to collaborate on **Data Science - AI projects**
+-  I’m looking to collaborate on **Data Science - AI projects**
 
 - 📫 How to reach me **muhammad.mahmoud01@eng-st.cu.edu.eg**
 
