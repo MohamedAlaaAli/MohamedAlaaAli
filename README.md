@@ -5,7 +5,7 @@
 
 -  I’m looking to collaborate on **Data Science - AI projects**
 
-- 📫 How to reach me **muhammad.mahmoud01@eng-st.cu.edu.eg**
+- 📫 How to reach me **muhammed.alaa157@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
