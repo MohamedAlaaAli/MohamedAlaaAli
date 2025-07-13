@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed </h1>
-Follow my path ? – [follow along here](https://trello.com/b/01GuiQGu/mithrils)
-📫 How to reach me **muhammed.alaa157@gmail.com**
+- Follow my path ? – [follow along here](https://trello.com/b/01GuiQGu/mithrils) 
+- 📫 How to reach me **muhammed.alaa157@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
