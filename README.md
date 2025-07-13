@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed ALaa</h1>
 <h3 align="center">Data Science - AI enthusiast</h3>
 
-- 🔭 I’m currently studying **Systems and Biomedical Engineering**
-
--  I’m looking to collaborate on **Data Science - AI projects**
+– Follow my path ? – [follow along here](https://trello.com/b/01GuiQGu/mithrils)
 
 - 📫 How to reach me **muhammed.alaa157@gmail.com**
 
